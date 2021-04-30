@@ -1,1 +1,2 @@
 This is some more sample text
+This is some other text for a hotfix example
